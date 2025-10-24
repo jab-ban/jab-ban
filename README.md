@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# 👋 Hi, I'm ban jabateh 
+👋 Hi, I'm ban jabateh 
 
 🎓 Data Science & AI Student at Yarmouk University (Graduating 2026)  
 💡 Passionate about LLMs, RAG systems, and AI Automation  
@@ -34,4 +34,4 @@
 Here are some ideas to get you started:
 
 🌱 I’m currently expanding my knowledge in AI and its real-world applications. I’m also focusing on improving my soft skills and learning how to design and build full projects independently — from concept to deployment.
--->
+
