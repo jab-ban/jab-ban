@@ -31,7 +31,6 @@
 
 
 
-Here are some ideas to get you started:
 
 🌱 I’m currently expanding my knowledge in AI and its real-world applications. I’m also focusing on improving my soft skills and learning how to design and build full projects independently — from concept to deployment.
 
