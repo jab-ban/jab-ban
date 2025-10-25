@@ -26,7 +26,7 @@
 ---
 
 📫 **Reach Me:**  
-- [LinkedIn](https://www.linkedin.com/in/ban-jabateh-3ab3b626b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSHkmAclSRfu5g9L5wZYl1A%3D%3D))  
+- [LinkedIn](https://www.linkedin.com/in/ban-jabateh-3ab3b626b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSHkmAclSRfu5g9L5wZYl1A%3D%3D)
 - [Email](ban.mohammed41@gmail.com)
 
 
